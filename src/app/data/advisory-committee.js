@@ -144,5 +144,14 @@ export const InternationalAdvisoryCommittee = {
         linkedin: "https://it.linkedin.com/in/ggruosso",
       },
     },
+    {
+      title: "Dr. Archana Kamal",
+      description: "Associate Professor, Yale University",
+      image: "/assets/images/international-advisory/p18.jpg",
+      socialLinks: {
+        facebook: "https://physics.northwestern.edu/people/faculty/core-faculty/archana-kamal.html",
+        linkedin: "https://www.linkedin.com/in/archanakamal/",
+      },
+    },
   ],
 };
